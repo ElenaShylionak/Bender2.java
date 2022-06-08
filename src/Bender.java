@@ -9,7 +9,7 @@ public class Bender {
         String movie = s.nextLine();
 
         MyFry.SetName(movie); //пепредали в метод
-        MyFry.oput();
+        MyFry.oput();//
 
 
 
